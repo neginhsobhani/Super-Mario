@@ -1,0 +1,14 @@
+# Maven files
+target/
+log/
+
+# Intellij files
+.idea/
+*.iml
+*.iws
+
+# Exception Handler log
+Files/log.txt
+
+# Maps
+Files/map/*
